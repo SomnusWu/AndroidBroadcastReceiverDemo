@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidBroadcastReceiverDemo</string>
+    <string name="hello_world">Click Me!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_send_broadcast_receiver">Click Me Send BroadCastReceiver!</string>
+    <string name="btn_interface_test">Click Me InterFace Test!</string>
+    
+
+</resources>
